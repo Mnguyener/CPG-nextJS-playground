@@ -7,7 +7,7 @@ function NewsPage() {
       <h1>The News Page</h1>
       <ul>
         <li><Link href="/news/article-1">Article 1</Link></li>
-        <li>Article 2</li>
+        <li><Link href="/news/article-2">Article 2</Link></li>
       </ul>
     </Fragment>
   }
